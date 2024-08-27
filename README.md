@@ -30,7 +30,9 @@ These pages mirror the Web Design page, differing only in the images displayed.
 ## Styling & Assets:
 
 • External CSS files for styling.
+
 • Google Fonts and Font Awesome are used to enhance typography and icons, ensuring a modern and clean aesthetic.
+
 • Images for each category are stored in the "Pedia" folder and referenced within the HTML files.
 
 

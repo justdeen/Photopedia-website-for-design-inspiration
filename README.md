@@ -6,7 +6,7 @@ Photopedia is simply an online gallery that contains designs of different catego
 
 ## Website Structure:
 
-### Home Page (index.html):
+### Home Page:
 
 Serves as the landing page with a welcome message for visitors.
 Provides a brief introduction to the platform's purpose and the categories of designs available.
@@ -15,24 +15,23 @@ Features a section about the curator and showcases featured designs.
 Contains external links to stylesheets and fonts for consistent design and typography.
 
 
-### Web Design Page (Design Hub.html):
+### Web Design Page:
 
 Displays a gallery of web design images.
 Includes navigation to return to the home page and explore other design categories.
 Like the home page, it uses external stylesheets and fonts.
-Mobile Design Page (Design Hub 3.html) & 
 
 
-### Graphic Design Page (Design Hub 2.html):
+### Mobile Design Page & Graphic Design Page:
 
 These pages mirror the Web Design page, differing only in the images displayed.
 
 
 ## Styling & Assets:
 
-The website uses external CSS files (Design Hub-Home.css and Design Hub.css) for styling.
-Google Fonts and Font Awesome are used to enhance typography and icons, ensuring a modern and clean aesthetic.
-Images for each category are stored in the "Pedia" folder and referenced within the HTML files.
+• External CSS files for styling.
+• Google Fonts and Font Awesome are used to enhance typography and icons, ensuring a modern and clean aesthetic.
+• Images for each category are stored in the "Pedia" folder and referenced within the HTML files.
 
 
 ## Interactivity:

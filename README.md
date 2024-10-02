@@ -1,12 +1,12 @@
 https://just-deen.github.io/Photopedia-website-for-design-inspiration/ - hosted on github
 
-# Photopedia-website-for-design-inspiration
+## 💫 Overview 
 Photopedia is simply an online gallery that contains designs of different categories (mobile, websites and also graphic designs) which serve to inspire both designers and developers in their creative processes. More categories concerning visual learning will be included in the updated versions.
 
 
-## Website Structure:
+## 📃 Website Structure:
 
-### Home Page:
+### 🏠 Home Page:
 
 Serves as the landing page with a welcome message for visitors.
 Provides a brief introduction to the platform's purpose and the categories of designs available.
@@ -15,19 +15,19 @@ Features a section about the curator and showcases featured designs.
 Contains external links to stylesheets and fonts for consistent design and typography.
 
 
-### Web Design Page:
+### 🖼 Web Design Page:
 
 Displays a gallery of web design images.
 Includes navigation to return to the home page and explore other design categories.
 Like the home page, it uses external stylesheets and fonts.
 
 
-### Mobile Design Page & Graphic Design Page:
+### 🎨 Mobile Design Page & Graphic Design Page:
 
 These pages mirror the Web Design page, differing only in the images displayed.
 
 
-## Styling & Assets:
+## 💼 Styling & Assets:
 
 • External CSS files for styling.
 
@@ -36,7 +36,7 @@ These pages mirror the Web Design page, differing only in the images displayed.
 • Images for each category are stored in the "Pedia" folder and referenced within the HTML files.
 
 
-## Interactivity:
+## 💬 Interactivity:
 
 JavaScript is used to manage scroll restoration, ensuring a smooth user experience when navigating between pages.
 Copyright:

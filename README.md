@@ -34,11 +34,3 @@ These pages mirror the Web Design page, differing only in the images displayed.
 • Google Fonts and Font Awesome are used to enhance typography and icons, ensuring a modern and clean aesthetic.
 
 • Images for each category are stored in the "Pedia" folder and referenced within the HTML files.
-
-
-## 💬 Interactivity:
-
-JavaScript is used to manage scroll restoration, ensuring a smooth user experience when navigating between pages.
-Copyright:
-
-All content on the website is copyrighted to Sheriff, the platform's curator.

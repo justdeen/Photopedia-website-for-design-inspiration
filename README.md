@@ -1,3 +1,5 @@
+![Notes_241026_125455_71f](https://github.com/user-attachments/assets/effe04a8-7483-47f0-ad95-8647e8441435)
+
 ## 💫 Overview 
 Photopedia is simply an online gallery that contains designs of different categories (mobile, websites and also graphic designs) which serve to inspire both designers and developers in their creative processes. More categories concerning visual learning will be included in the updated versions.
 
